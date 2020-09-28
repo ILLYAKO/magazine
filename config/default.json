@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret":"Top Secret",
+  "mongoUri": "mongodb+srv://Illya:tl123@cluster0.ojcyu.mongodb.net/magazinedb?retryWrites=true&w=majority",
+  "baseUrl":"http://localhost:5000"
+}
